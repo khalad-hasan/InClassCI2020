@@ -1,1 +1,1 @@
-# InClassCI2020
+# InClassCI2020 Activities
